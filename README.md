@@ -1,4 +1,5 @@
 # Python
 Some programming in Python
 
-hello world!
+Some of them are tasks at university and some coding from personal projects
+
